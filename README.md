@@ -1,5 +1,3 @@
-# gh-pages-demo
-A demo repository with a historic recipe.
 # Ida Bailey Allen's Orange and Date Cake
 ## Orange and Date Cake
 
